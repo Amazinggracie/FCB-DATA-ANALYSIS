@@ -10,4 +10,4 @@ The primary source of data used  here is data sale.csv and this is an open sourc
 - MS Excel[Get here](https://www.microsoft.com/en/microsoft-365/excel)
 - Microsoft Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Python
-- SQL
+- **SQL**
