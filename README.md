@@ -12,12 +12,15 @@ The primary source of data used  here is data sale.csv and this is an open sourc
 - *Python*
 - **SQL**
 
-## Project Oveerview
+## Project Overview
 ---
 
 
 ```
 Google   Query Sheet
+
+SELECT * FROM TABLE 1
+WHERE CONDITION = MET
 
 ```
 
